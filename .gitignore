@@ -1,0 +1,27 @@
+# Generated simulation data
+data/
+results/
+
+# MATLAB generated files
+*.asv
+*.mat
+*.fig
+
+# Python/cache artifacts if users add local scripts
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Archives and temporary files
+*.zip
+*.tar
+*.tar.gz
+tmp/
+temp/
+
